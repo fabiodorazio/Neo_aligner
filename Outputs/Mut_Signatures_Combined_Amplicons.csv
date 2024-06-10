@@ -1,0 +1,8 @@
+coordinates,reference_allele,alternative_allele,substitution,count,iteration,amplicon,sequence_total,signature,orig_amplicon,combined_total,combined_count,frequency
+55181378,T,C,T>C,14,2,amplicon_1_2,200,T>C,amplicon_1,400,31,0.0775
+55181378,T,C,T>C,17,3,amplicon_1_2,200,T>C,amplicon_2,400,31,0.0775
+140776882,C,T,C>T,25,4,amplicon_3,200,C>T,amplicon_3,1000,65,0.065
+140776927,A,G,A>G,11,4,amplicon_3,200,T>C,amplicon_3,1000,16,0.016
+140776882,C,T,C>T,21,5,amplicon_3,200,C>T,amplicon_3,1000,65,0.065
+140776927,A,G,A>G,5,5,amplicon_3,200,T>C,amplicon_3,1000,16,0.016
+140776882,C,T,C>T,19,6,amplicon_3,200,C>T,amplicon_3,1000,65,0.065

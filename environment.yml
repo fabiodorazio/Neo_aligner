@@ -1,0 +1,13 @@
+name: neo_aligner_1.1
+channels:
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - pip=23.3.1=py311h06a4308_0
+  - pip:
+      - biopython==1.83
+      - numpy==1.26.3
+      - pandas==1.5.3
+      - seaborn==0.13.2
+prefix: /home/fdorazio/apps/conda/envs/neo_aligner_1.0
